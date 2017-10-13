@@ -11,7 +11,7 @@ E se você chegou até aqui, é provável que tenha visto todas as informações
 - Montagem de uma home em resolução padrão, sendo que as internas não são obrigatórias;
 - Montagem responsiva;
 - Validar o form de newsletter.
-OBSERVAÇÃO: o layout será um arquivo free PSD usado apenas para o teste, disponível no repositório que pode ser baixado clicando aqui. Desta forma, melhorias no layout são sempre muito bem-vindas.
+OBSERVAÇÃO: o layout será um arquivo free PSD usado apenas para o teste, disponível no repositório via link https://github.com/ph2propaganda/teste-frontend/tree/master/teste-frontend. Desta forma, melhorias no layout são sempre muito bem-vindas.
  
 Após finalizar, não esqueça de disponibilizar o conteúdo no seu repositório do Github e nos enviar o link de acesso.
  
